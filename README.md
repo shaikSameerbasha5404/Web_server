@@ -39,6 +39,10 @@ content = """
 <hl>Welcome</hl>
 <h1>SHAIK SAMEER BASHA</h1>
 <h1>22004926</h1>
+<h3>LIST OF FRAMEWORKS</h3>
+<h4>-django</h4>
+<h4>-meteor</h4>
+<h4>-cakePHP</h4>
 </body>
 <html>
 """
