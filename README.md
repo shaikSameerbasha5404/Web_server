@@ -54,9 +54,8 @@ server_address=('',80)
 httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()        
 ```
-
 # OUTPUT:
-![Screenshot (74)](https://user-images.githubusercontent.com/118707756/215249056-c09d360b-f127-4288-969b-58e526cf2fd6.png)
+![webserver_output](https://user-images.githubusercontent.com/118707756/215324943-9e1a5dea-394f-4e31-a666-044081d755e9.png)
 # RESULT:
 
 The program is executed succesfully
